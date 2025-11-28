@@ -1,8 +1,8 @@
 UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO           
 FES ARAGON. D.R. 2012-2023           
 Ernesto Peñaloza Romero 
-Fecha: 25/11/2025 
-Hora : 19:42:58.77 
+Fecha: 27/11/2025 
+Hora : 13:56:22.96 
 ======================================= 
 .           
 .           
@@ -15,18 +15,6 @@ ESTILO
 COMPILANDO 
 ================= 
 CORRECTOR.CPP
-CORRECTOR.CPP(182) : warning C4305: 'inicializando' : truncamiento de 'int' a 'char'
-CORRECTOR.CPP(182) : warning C4309: 'inicializando' : truncamiento de valor constante
-CORRECTOR.CPP(182) : warning C4305: 'inicializando' : truncamiento de 'int' a 'char'
-CORRECTOR.CPP(182) : warning C4309: 'inicializando' : truncamiento de valor constante
-CORRECTOR.CPP(182) : warning C4305: 'inicializando' : truncamiento de 'int' a 'char'
-CORRECTOR.CPP(182) : warning C4309: 'inicializando' : truncamiento de valor constante
-CORRECTOR.CPP(182) : warning C4305: 'inicializando' : truncamiento de 'int' a 'char'
-CORRECTOR.CPP(182) : warning C4309: 'inicializando' : truncamiento de valor constante
-CORRECTOR.CPP(182) : warning C4305: 'inicializando' : truncamiento de 'int' a 'char'
-CORRECTOR.CPP(182) : warning C4309: 'inicializando' : truncamiento de valor constante
-CORRECTOR.CPP(182) : warning C4305: 'inicializando' : truncamiento de 'int' a 'char'
-CORRECTOR.CPP(182) : warning C4309: 'inicializando' : truncamiento de valor constante
 DLLMAIN.CPP
 Generando c¢digo...
    Creando biblioteca CYP06.lib y objeto CYP06.exp
@@ -128,11 +116,8 @@ Prueba 1. Pruebas de clonacion de palabras
     Palabra usada:[xvrirmlwmwvdobborqq]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [1285].
+   ==> Alumno    : [0].
    ==> Referencia: [1286]
 
 Prueba 2. Pruebas de clonacion de palabras
@@ -140,11 +125,8 @@ Prueba 2. Pruebas de clonacion de palabras
     Palabra usada:[melrjqxstyjrvyqbrcerqywuvwiqldwuemvbwsmsg]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [4022].
+   ==> Alumno    : [0].
    ==> Referencia: [2738]
 
 Prueba 3. Pruebas de clonacion de palabras
@@ -152,11 +134,8 @@ Prueba 3. Pruebas de clonacion de palabras
     Palabra usada:[yhushosynjldjlxxbtswspeiqguldc]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [6033].
+   ==> Alumno    : [0].
    ==> Referencia: [2012]
 
 Prueba 4. Pruebas de clonacion de palabras
@@ -164,11 +143,8 @@ Prueba 4. Pruebas de clonacion de palabras
     Palabra usada:[hbboey]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [6460].
+   ==> Alumno    : [0].
    ==> Referencia: [428]
 
 Prueba 5. Pruebas de clonacion de palabras
@@ -176,11 +152,8 @@ Prueba 5. Pruebas de clonacion de palabras
     Palabra usada:[icqwlrikdielhaaef]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [7613].
+   ==> Alumno    : [0].
    ==> Referencia: [1154]
 
 Prueba 6. Pruebas de clonacion de palabras
@@ -188,11 +161,8 @@ Prueba 6. Pruebas de clonacion de palabras
     Palabra usada:[t]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [7613].
+   ==> Alumno    : [0].
    ==> Referencia: [97]
 
 Prueba 7. Pruebas de clonacion de palabras
@@ -200,11 +170,8 @@ Prueba 7. Pruebas de clonacion de palabras
     Palabra usada:[eyvupqtmtmcqfji]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [8634].
+   ==> Alumno    : [0].
    ==> Referencia: [1022]
 
 Prueba 8. Pruebas de clonacion de palabras
@@ -212,11 +179,8 @@ Prueba 8. Pruebas de clonacion de palabras
     Palabra usada:[ekwmiaghswupfeuwbpymaf]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [10117].
+   ==> Alumno    : [0].
    ==> Referencia: [1484]
 
 Prueba 9. Pruebas de clonacion de palabras
@@ -224,11 +188,8 @@ Prueba 9. Pruebas de clonacion de palabras
     Palabra usada:[gyhijpiybbghbqpltnfjn]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [11534].
+   ==> Alumno    : [0].
    ==> Referencia: [1418]
 
 Prueba 10. Pruebas de clonacion de palabras
@@ -236,11 +197,8 @@ Prueba 10. Pruebas de clonacion de palabras
     Palabra usada:[j]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [11534].
+   ==> Alumno    : [0].
    ==> Referencia: [97]
 
 Prueba 11. Pruebas de clonacion de palabras
@@ -248,11 +206,8 @@ Prueba 11. Pruebas de clonacion de palabras
     Palabra usada:[ffxthippvrimfejsojncyrosoey]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [13347].
+   ==> Alumno    : [0].
    ==> Referencia: [1814]
 
 Prueba 12. Pruebas de clonacion de palabras
@@ -260,11 +215,8 @@ Prueba 12. Pruebas de clonacion de palabras
     Palabra usada:[bgnkem]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [13774].
+   ==> Alumno    : [0].
    ==> Referencia: [428]
 
 Prueba 13. Pruebas de clonacion de palabras
@@ -272,11 +224,8 @@ Prueba 13. Pruebas de clonacion de palabras
     Palabra usada:[vvvemxgtmowshtlrvpndo]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [15191].
+   ==> Alumno    : [0].
    ==> Referencia: [1418]
 
 Prueba 14. Pruebas de clonacion de palabras
@@ -284,11 +233,8 @@ Prueba 14. Pruebas de clonacion de palabras
     Palabra usada:[yjjwjfmhnswig]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [16080].
+   ==> Alumno    : [0].
    ==> Referencia: [890]
 
 Prueba 15. Pruebas de clonacion de palabras
@@ -296,11 +242,8 @@ Prueba 15. Pruebas de clonacion de palabras
     Palabra usada:[odaymkggcpjqham]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [17101].
+   ==> Alumno    : [0].
    ==> Referencia: [1022]
 
 Prueba 16. Pruebas de clonacion de palabras
@@ -308,11 +251,8 @@ Prueba 16. Pruebas de clonacion de palabras
     Palabra usada:[epexagotldy]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [17858].
+   ==> Alumno    : [0].
    ==> Referencia: [758]
 
 Prueba 17. Pruebas de clonacion de palabras
@@ -320,11 +260,8 @@ Prueba 17. Pruebas de clonacion de palabras
     Palabra usada:[skqyjedordategemlokalgxmuvxgggixjkpwdtsnmunshr]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [20925].
+   ==> Alumno    : [0].
    ==> Referencia: [3068]
 
 Prueba 18. Pruebas de clonacion de palabras
@@ -332,11 +269,8 @@ Prueba 18. Pruebas de clonacion de palabras
     Palabra usada:[phjnruwhdtxwqkgycxbadpqtcnyik]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [22870].
+   ==> Alumno    : [0].
    ==> Referencia: [1946]
 
 Prueba 19. Pruebas de clonacion de palabras
@@ -344,11 +278,8 @@ Prueba 19. Pruebas de clonacion de palabras
     Palabra usada:[dfqdwmtmjfe]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [23627].
+   ==> Alumno    : [0].
    ==> Referencia: [758]
 
 Prueba 20. Pruebas de clonacion de palabras
@@ -356,11 +287,8 @@ Prueba 20. Pruebas de clonacion de palabras
     Palabra usada:[ihpevfquqfyjogsnqoxpsbo]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [25176].
+   ==> Alumno    : [0].
    ==> Referencia: [1550]
 
 Prueba 21. Pruebas de clonacion de palabras
@@ -368,11 +296,8 @@ Prueba 21. Pruebas de clonacion de palabras
     Palabra usada:[fijhkohvjkphqgfkbx]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [26395].
+   ==> Alumno    : [0].
    ==> Referencia: [1220]
 
 Prueba 22. Pruebas de clonacion de palabras
@@ -380,11 +305,8 @@ Prueba 22. Pruebas de clonacion de palabras
     Palabra usada:[njwgikrdppbpkylkrvdkuw]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [27878].
+   ==> Alumno    : [0].
    ==> Referencia: [1484]
 
 Prueba 23. Pruebas de clonacion de palabras
@@ -392,11 +314,8 @@ Prueba 23. Pruebas de clonacion de palabras
     Palabra usada:[vjkhojpjkvwmsylnqacthdgrotpptkhwkouhym]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [30417].
+   ==> Alumno    : [0].
    ==> Referencia: [2540]
 
 Prueba 24. Pruebas de clonacion de palabras
@@ -404,11 +323,8 @@ Prueba 24. Pruebas de clonacion de palabras
     Palabra usada:[ykvyqnrkkwwjrkitjkjmnvnmtcrreurjtvpoxgvly]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [33154].
+   ==> Alumno    : [0].
    ==> Referencia: [2738]
 
 Prueba 25. Pruebas de clonacion de palabras
@@ -416,11 +332,8 @@ Prueba 25. Pruebas de clonacion de palabras
     Palabra usada:[usgbarcexlljaymlguvtcy]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [34637].
+   ==> Alumno    : [0].
    ==> Referencia: [1484]
 
 Prueba 26. Pruebas de clonacion de palabras
@@ -428,11 +341,8 @@ Prueba 26. Pruebas de clonacion de palabras
     Palabra usada:[vxpsuwhidemrojtywolrlyri]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [36252].
+   ==> Alumno    : [0].
    ==> Referencia: [1616]
 
 Prueba 27. Pruebas de clonacion de palabras
@@ -440,11 +350,8 @@ Prueba 27. Pruebas de clonacion de palabras
     Palabra usada:[ibbwymukfamknfawwbfpsfkkymqkreyntf]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [38527].
+   ==> Alumno    : [0].
    ==> Referencia: [2276]
 
 Prueba 28. Pruebas de clonacion de palabras
@@ -452,11 +359,8 @@ Prueba 28. Pruebas de clonacion de palabras
     Palabra usada:[mqayfoujnpyvvpsybpvjhpmmvnmnhafnbtcftrbp]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [41198].
+   ==> Alumno    : [0].
    ==> Referencia: [2672]
 
 Prueba 29. Pruebas de clonacion de palabras
@@ -464,11 +368,8 @@ Prueba 29. Pruebas de clonacion de palabras
     Palabra usada:[bwfioyydoacanphrcenydyulasnjasfrbutmtfdimog]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [44067].
+   ==> Alumno    : [0].
    ==> Referencia: [2870]
 
 Prueba 30. Pruebas de clonacion de palabras
@@ -476,11 +377,8 @@ Prueba 30. Pruebas de clonacion de palabras
     Palabra usada:[lvdbajwyymrvgqhcpafavdrdtxg]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [45880].
+   ==> Alumno    : [0].
    ==> Referencia: [1814]
 
 Prueba 31. Pruebas de clonacion de palabras
@@ -488,11 +386,8 @@ Prueba 31. Pruebas de clonacion de palabras
     Palabra usada:[huyiujxmgsxqvskooyhsdylpxsmytp]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [47891].
+   ==> Alumno    : [0].
    ==> Referencia: [2012]
 
 Prueba 32. Pruebas de clonacion de palabras
@@ -500,11 +395,8 @@ Prueba 32. Pruebas de clonacion de palabras
     Palabra usada:[lcttpognqskjaxrfkci]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [49176].
+   ==> Alumno    : [0].
    ==> Referencia: [1286]
 
 Prueba 33. Pruebas de clonacion de palabras
@@ -512,11 +404,8 @@ Prueba 33. Pruebas de clonacion de palabras
     Palabra usada:[yyttivcbmtugsduncl]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [50395].
+   ==> Alumno    : [0].
    ==> Referencia: [1220]
 
 Prueba 34. Pruebas de clonacion de palabras
@@ -524,11 +413,8 @@ Prueba 34. Pruebas de clonacion de palabras
     Palabra usada:[qpscjwxldffyifeouikdtvhcivwxpcuwyrnalxeceikqapkq]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [53594].
+   ==> Alumno    : [0].
    ==> Referencia: [3200]
 
 Prueba 35. Pruebas de clonacion de palabras
@@ -536,11 +422,8 @@ Prueba 35. Pruebas de clonacion de palabras
     Palabra usada:[anijcmbus]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [54219].
+   ==> Alumno    : [0].
    ==> Referencia: [626]
 
 Prueba 36. Pruebas de clonacion de palabras
@@ -548,11 +431,8 @@ Prueba 36. Pruebas de clonacion de palabras
     Palabra usada:[qq]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [54382].
+   ==> Alumno    : [0].
    ==> Referencia: [164]
 
 Prueba 37. Pruebas de clonacion de palabras
@@ -560,11 +440,8 @@ Prueba 37. Pruebas de clonacion de palabras
     Palabra usada:[qcakqynnts]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [55073].
+   ==> Alumno    : [0].
    ==> Referencia: [692]
 
 Prueba 38. Pruebas de clonacion de palabras
@@ -572,11 +449,8 @@ Prueba 38. Pruebas de clonacion de palabras
     Palabra usada:[gipeeyflfguaaiiyowavoqngrthbvkmgtvrsqwoxu]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [57810].
+   ==> Alumno    : [0].
    ==> Referencia: [2738]
 
 Prueba 39. Pruebas de clonacion de palabras
@@ -584,11 +458,8 @@ Prueba 39. Pruebas de clonacion de palabras
     Palabra usada:[cgfhoctuospcnbq]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [58831].
+   ==> Alumno    : [0].
    ==> Referencia: [1022]
 
 Prueba 40. Pruebas de clonacion de palabras
@@ -596,11 +467,8 @@ Prueba 40. Pruebas de clonacion de palabras
     Palabra usada:[srwl]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [59126].
+   ==> Alumno    : [0].
    ==> Referencia: [296]
 
 Prueba 41. Pruebas de clonacion de palabras
@@ -608,11 +476,8 @@ Prueba 41. Pruebas de clonacion de palabras
     Palabra usada:[uawfwouybeqfbyomkcrlge]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [60609].
+   ==> Alumno    : [0].
    ==> Referencia: [1484]
 
 Prueba 42. Pruebas de clonacion de palabras
@@ -620,11 +485,8 @@ Prueba 42. Pruebas de clonacion de palabras
     Palabra usada:[jrtfrrjwdoiobggauyvgwtmbtxnrhrkwmirqbnuk]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [63280].
+   ==> Alumno    : [0].
    ==> Referencia: [2672]
 
 Prueba 43. Pruebas de clonacion de palabras
@@ -632,11 +494,8 @@ Prueba 43. Pruebas de clonacion de palabras
     Palabra usada:[bkepxtllushgfqde]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [64367].
+   ==> Alumno    : [0].
    ==> Referencia: [1088]
 
 Prueba 44. Pruebas de clonacion de palabras
@@ -644,11 +503,8 @@ Prueba 44. Pruebas de clonacion de palabras
     Palabra usada:[jffwjffckffhoiwsdeuiathqvrxoe]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [66312].
+   ==> Alumno    : [0].
    ==> Referencia: [1946]
 
 Prueba 45. Pruebas de clonacion de palabras
@@ -656,11 +512,8 @@ Prueba 45. Pruebas de clonacion de palabras
     Palabra usada:[nngtyytuxxhifirppwtdcjqgslsjgknpqhyasl]
 
 
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
-
-
    ==> El numero de palabras en las listas clonadas no coincide.
-   ==> Alumno    : [68851].
+   ==> Alumno    : [0].
    ==> Referencia: [2540]
 
 Prueba 46. Pruebas de clonacion de palabras
@@ -668,60 +521,45 @@ Prueba 46. Pruebas de clonacion de palabras
     Palabra usada:[ieutplkbyavuvlhdthaapvryfjqruhj]
 
 
-   ==> El numero de datos queda fuera del rango posible para esta asignacion.
-   ==> Se abortan todas las pruebas.
-==> Alumno: [70928].
-
-
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
+   ==> El numero de palabras en las listas clonadas no coincide.
+   ==> Alumno    : [0].
+   ==> Referencia: [2078]
 
 Prueba 47. Pruebas de clonacion de palabras
 * Archivo: CYP06-05.dat
     Palabra usada:[yjlsuy]
 
 
-   ==> El numero de datos queda fuera del rango posible para esta asignacion.
-   ==> Se abortan todas las pruebas.
-==> Alumno: [71355].
-
-
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
+   ==> El numero de palabras en las listas clonadas no coincide.
+   ==> Alumno    : [0].
+   ==> Referencia: [428]
 
 Prueba 48. Pruebas de clonacion de palabras
 * Archivo: CYP06-05.dat
     Palabra usada:[hpksaemtrylcqqdwocnfudydfrbpitix]
 
 
-   ==> El numero de datos queda fuera del rango posible para esta asignacion.
-   ==> Se abortan todas las pruebas.
-==> Alumno: [73498].
-
-
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
+   ==> El numero de palabras en las listas clonadas no coincide.
+   ==> Alumno    : [0].
+   ==> Referencia: [2144]
 
 Prueba 49. Pruebas de clonacion de palabras
 * Archivo: CYP06-05.dat
     Palabra usada:[ngolfewgbskxyttdxcncdnkubtwwooayiyjleddrxrnkg]
 
 
-   ==> El numero de datos queda fuera del rango posible para esta asignacion.
-   ==> Se abortan todas las pruebas.
-==> Alumno: [76499].
-
-
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
+   ==> El numero de palabras en las listas clonadas no coincide.
+   ==> Alumno    : [0].
+   ==> Referencia: [3002]
 
 Prueba 50. Pruebas de clonacion de palabras
 * Archivo: CYP06-05.dat
     Palabra usada:[ogfyalcinkhcvdljjphyarklknexvvh]
 
 
-   ==> El numero de datos queda fuera del rango posible para esta asignacion.
-   ==> Se abortan todas las pruebas.
-==> Alumno: [78576].
-
-
-   ==> El listado de palabras clonadas no esta ordenado conforme a lo especificado.
+   ==> El numero de palabras en las listas clonadas no coincide.
+   ==> Alumno    : [0].
+   ==> Referencia: [2078]
 .
 .
 ==> No OK.
@@ -738,11 +576,10 @@ Prueba 1. Pruebas de lista final de palabras
     Palabra usada:[ans]
 
 
-   ==> La lista final de palabras del alumno y la referencia no coinciden.
+   ==> El numero de palabras en las lista final de palabras no coincide.
 
-
-   ==> Existen 1 palabras en lalista final de palabras de la referencia que no existen en el del alumno.
-   * [ana]
+   ==> Alumno    : [0].
+   ==> Referencia: [230]
 
 Prueba 2. Pruebas de lista final de palabras
 * Archivo: CYP06-00.dat
@@ -751,66 +588,8 @@ Prueba 2. Pruebas de lista final de palabras
 
    ==> El numero de palabras en las lista final de palabras no coincide.
 
-   ==> Alumno    : [78576].
+   ==> Alumno    : [0].
    ==> Referencia: [164]
-
-
-   ==> La lista final de palabras del alumno y la referencia no coinciden.
-
-
-   ==> Existen 2 palabras en lalista final de palabras de la referencia que no existen en el del alumno.
-   * [en]
-   * [un]
-
-Prueba 3. Pruebas de lista final de palabras
-* Archivo: CYP06-00.dat
-    Palabra usada:[ios]
-
-
-   ==> El numero de palabras en las lista final de palabras no coincide.
-
-   ==> Alumno    : [78576].
-   ==> Referencia: [230]
-
-Prueba 4. Pruebas de lista final de palabras
-* Archivo: CYP06-00.dat
-    Palabra usada:[avidad]
-
-
-   ==> El numero de palabras en las lista final de palabras no coincide.
-
-   ==> Alumno    : [78576].
-   ==> Referencia: [428]
-
-Prueba 5. Pruebas de lista final de palabras
-* Archivo: CYP06-00.dat
-    Palabra usada:[olo]
-
-
-   ==> El numero de palabras en las lista final de palabras no coincide.
-
-   ==> Alumno    : [78576].
-   ==> Referencia: [230]
-
-Prueba 6. Pruebas de lista final de palabras
-* Archivo: CYP06-00.dat
-    Palabra usada:[sol]
-
-
-   ==> El numero de palabras en las lista final de palabras no coincide.
-
-   ==> Alumno    : [78576].
-   ==> Referencia: [230]
-
-Prueba 7. Pruebas de lista final de palabras
-* Archivo: CYP06-00.dat
-    Palabra usada:[sant]
-
-
-   ==> El numero de palabras en las lista final de palabras no coincide.
-
-   ==> Alumno    : [78576].
-   ==> Referencia: [296]
 
 Prueba 8. Pruebas de lista final de palabras
 * Archivo: CYP06-00.dat
@@ -819,18 +598,8 @@ Prueba 8. Pruebas de lista final de palabras
 
    ==> El numero de palabras en las lista final de palabras no coincide.
 
-   ==> Alumno    : [78576].
+   ==> Alumno    : [0].
    ==> Referencia: [230]
-
-Prueba 9. Pruebas de lista final de palabras
-* Archivo: CYP06-00.dat
-    Palabra usada:[y]
-
-
-   ==> El numero de palabras en las lista final de palabras no coincide.
-
-   ==> Alumno    : [78576].
-   ==> Referencia: [97]
 
 Prueba 10. Pruebas de lista final de palabras
 * Archivo: CYP06-00.dat
@@ -839,22 +608,22 @@ Prueba 10. Pruebas de lista final de palabras
 
    ==> El numero de palabras en las lista final de palabras no coincide.
 
-   ==> Alumno    : [78576].
+   ==> Alumno    : [0].
    ==> Referencia: [230]
 .
 .
 ==> No OK.
 .
-Resultado: 0/10[  0.00%]
+Resultado: 6/10[  0.20%]
 .
 .
-TOTAL POR PRUEBAS FUNCIONALES  :   3.33
+TOTAL POR PRUEBAS FUNCIONALES  :   5.33
 .
 
 
    ==> Evaluador terminado por un fallo de timeout transcurridos [300] segundos
    ==> El evaluador no pudo cargar las funciones del alumno. Verifique la firma de las funciones
-VALOR DE LA EVALUACION DE LA CORRECCION   :  2.31
+VALOR DE LA EVALUACION DE LA CORRECCION   :  3.71
 .
 .
 CONCLUSIONES    
@@ -868,7 +637,7 @@ NUMERO DE CUENTA: 426124294
 
 .
 .
-	EVALUACION TOTAL:  5.31
+	EVALUACION TOTAL:  6.71
 .           
 .           
 .           
